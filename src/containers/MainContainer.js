@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from '../components/Home';
 import Python from '../components/python/Python';
 import ErrorPage from '../components/ErrorPage';
+import NavBar from '../components/ui/NavBar';
 
 const MainContainer = () => {
   return (
