@@ -16,7 +16,7 @@ const MainContainer = () => {
         <>
         <NavBar />
             <Routes>
-                <Route path="/portfolio/home" element={<Home />} />
+                <Route path="/portfolio/" element={<Home />} />
                 <Route path="/portfolio/python" element={<Python />} />
                 <Route path="/portfolio/javascript" element={<Javascript />} />
                 <Route path="/portfolio/java" element ={<Java />} />
