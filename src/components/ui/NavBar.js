@@ -6,19 +6,19 @@ const NavBar = () => {
     <div className="nav-bar">
     <ul>
         <li>
-            <Link to="/portfolio">Home</Link>
+            <Link to="/portfolio/home">Home</Link>
         </li>
         <li>
-            <Link to="/python">Python</Link>
+            <Link to="/portfolio/python">Python</Link>
         </li>
         <li>
-            <Link to="/javascript">Javascript</Link>
+            <Link to="/portfolio/javascript">Javascript</Link>
         </li>
         <li>
-            <Link to="/java">Java</Link>
+            <Link to="/portfolio/java">Java</Link>
         </li>
         <li>
-            <Link to="/contact">Contact</Link>
+            <Link to="/portfolio/contact">Contact</Link>
         </li>
     </ul>
     </div>

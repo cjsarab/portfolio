@@ -16,11 +16,11 @@ const MainContainer = () => {
         <>
         <NavBar />
             <Routes>
-                <Route path="/portfolio" element={<Home />} />
-                <Route path="/python" element={<Python />} />
-                <Route path="/javascript" element={<Javascript />} />
-                <Route path="/java" element ={<Java />} />
-                <Route path="/contact" element={<Contact />} />
+                <Route path="/portfolio/home" element={<Home />} />
+                <Route path="/portfolio/python" element={<Python />} />
+                <Route path="/portfolio/javascript" element={<Javascript />} />
+                <Route path="/portfolio/java" element ={<Java />} />
+                <Route path="/portfolio/contact" element={<Contact />} />
 
                 <Route path="*" element={<ErrorPage />} />
             </Routes>
