@@ -1,7 +1,124 @@
-.title {
-  color: blue;
+h1 {
+  font-family: 'Raleway';
+  color: black;
+  background-color: #F28500;
+  margin: 0;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
 }
 
 .nav-bar {
-  background-color: goldenrod;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0.5em;
+  color: white;
+}
+
+.nav-bar ul {
+  display: flex;
+  list-style: none;
+}
+
+.nav-bar li {
+  padding: 0 2em;
+}
+
+.contact-links {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.contact-links li{
+  padding: 0 2em;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: orange;
+}
+
+.github-link {
+  color: blue;
+}
+
+.github-link:hover {
+  color: #F28500;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+  padding: 0.8em;
+  border-bottom: 0.05em solid black;
+  background-color: antiquewhite;
+}
+
+.component {
+  background-color:antiquewhite;
+}
+
+.component .body {
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+}
+
+.component .projects-body {
+  justify-content: center;
+  padding: 2em;
+}
+
+.welcome {
+  padding: 2em;
+  border: 0.1em solid black;
+  border-radius: 20px;
+  margin: 1em;
+}
+
+.about {
+  padding: 2em;
+  border: 0.1em solid black;
+  border-radius: 20px;
+  margin: 1em;
+}
+
+.python-pics {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.js-pics {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+img {
+  max-width: 30em;
+  max-height: 30em;
+  border-radius: 20px;
+  margin: 1em;
+}
+
+.profile {
+  max-width: 10em;
+  max-height: 10em;
+  border-radius: 20px;
+}
+
+footer {
+  background-color: #F28500;
+  display: flex;
+  justify-content: center;
+  padding: 0.5em;
 }

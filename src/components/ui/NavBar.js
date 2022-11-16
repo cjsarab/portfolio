@@ -11,6 +11,15 @@ const NavBar = () => {
         <li>
             <Link to="/python">Python</Link>
         </li>
+        <li>
+            <Link to="/javascript">Javascript</Link>
+        </li>
+        <li>
+            <Link to="/java">Java</Link>
+        </li>
+        <li>
+            <Link to="/contact">Contact</Link>
+        </li>
     </ul>
     </div>
   );
