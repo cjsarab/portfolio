@@ -1,4 +1,9 @@
-h1 {
+body {
+  overflow-x: auto;
+}
+  
+  
+  h1 {
   font-family: 'Raleway';
   color: black;
   background-color: #F28500;
@@ -16,6 +21,9 @@ h1 {
   margin: 0;
   padding: 0.5em;
   color: white;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
 }
 
 .nav-bar ul {
