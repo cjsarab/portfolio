@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e42cb2c5.css",
-    "main.js": "/portfolio/static/js/main.83e89d1f.js",
+    "main.css": "/portfolio/static/css/main.1fd28b28.css",
+    "main.js": "/portfolio/static/js/main.e0949d60.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/yahtzee_form.png": "/portfolio/static/media/yahtzee_form.510137fcbc782263ae71.png",
     "static/media/yahtzee_gameplay.png": "/portfolio/static/media/yahtzee_gameplay.bb5dde31c60507c214dd.png",
@@ -13,12 +13,12 @@
     "static/media/python_view_country.png": "/portfolio/static/media/python_view_country.415c240ce04dcddd7670.png",
     "static/media/python_add_country.png": "/portfolio/static/media/python_add_country.0e9dea5d55c83428060e.png",
     "index.html": "/portfolio/index.html",
-    "main.e42cb2c5.css.map": "/portfolio/static/css/main.e42cb2c5.css.map",
-    "main.83e89d1f.js.map": "/portfolio/static/js/main.83e89d1f.js.map",
+    "main.1fd28b28.css.map": "/portfolio/static/css/main.1fd28b28.css.map",
+    "main.e0949d60.js.map": "/portfolio/static/js/main.e0949d60.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e42cb2c5.css",
-    "static/js/main.83e89d1f.js"
+    "static/css/main.1fd28b28.css",
+    "static/js/main.e0949d60.js"
   ]
 }
