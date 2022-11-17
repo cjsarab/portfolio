@@ -1,5 +1,7 @@
 body {
+  display: flex;
   overflow-x: auto;
+  white-space: no-wrap;
 }
   
   
@@ -23,7 +25,7 @@ body {
   color: white;
   position: sticky;
   position: -webkit-sticky;
-  top: 0;
+  top: 0
 }
 
 .nav-bar ul {
