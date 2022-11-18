@@ -22,7 +22,7 @@ const MainContainer = () => {
                 <Route path="/java" element ={<Java />} />
                 <Route path="/contact" element={<Contact />} />
 
-                <Route path="*" element={<ErrorPage />} />
+                <Route path="/*" element={<ErrorPage />} />
             </Routes>
             <footer><p> &copy; cjsarab 2022</p></footer>
         </>
