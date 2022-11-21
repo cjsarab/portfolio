@@ -111,6 +111,16 @@ a:hover {
   list-style: none;
 }
 
+.amiibo-pics {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.amiibo-video {
+  padding-right: 2em;
+}
+
 img {
   max-width: 30em;
   max-height: 30em;

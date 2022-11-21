@@ -11,7 +11,7 @@ const Home = () => {
         Welcome to my portfolio! Please use the links above to check out some of my recent projects.
         </p>
         <p className="about">
-        I like to develop all kinds of software, but I especially enjoy making software easier and more enjoyable for people to use.
+        I like to develop all kinds of software, but I especially enjoy making software easier and more enjoyable for people to use. I love to learn new things
         </p>
         <img className="profile" src={cammy} alt="cammy"/>
       </div>
