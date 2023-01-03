@@ -30,7 +30,9 @@ const Java = () => {
                       </li>
                     </ul>
 
-
+                    <p>
+                      Crocodile images used courtesy of <a className="github-link" target="blank" href="https://www.shutterstock.com/g/catalyststuff/sets">Catalyst Labs</a>
+                    </p>
         </div>
       </div>
     </div>
