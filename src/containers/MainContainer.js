@@ -24,7 +24,7 @@ const MainContainer = () => {
 
                 <Route path="*" element={<ErrorPage />} />
             </Routes>
-            <footer><p> &copy; cjsarab 2022</p></footer>
+            <footer><p> &copy; cjsarab 2022-23</p></footer>
         </>
     </Router>
   );

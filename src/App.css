@@ -90,6 +90,7 @@ a:hover {
   border: 0.1em solid black;
   border-radius: 20px;
   margin: 1em;
+  text-align: center;
 }
 
 .about {
@@ -97,6 +98,7 @@ a:hover {
   border: 0.1em solid black;
   border-radius: 20px;
   margin: 1em;
+  text-align: center;
 }
 
 .python-pics {
@@ -111,6 +113,12 @@ a:hover {
   list-style: none;
 }
 
+.java-pics {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
 .amiibo-pics {
   display: flex;
   flex-wrap: wrap;
@@ -119,6 +127,11 @@ a:hover {
 
 .amiibo-video {
   padding-right: 2em;
+}
+
+.java-video {
+  padding-right: 2em;
+  border-radius: 20px;
 }
 
 img {

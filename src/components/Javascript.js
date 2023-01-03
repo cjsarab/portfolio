@@ -22,6 +22,7 @@ const Javascript = () => {
                 <h4>Javascript/React/MongoDB</h4> 
                 <a className="github-link" target="blank" href="https://github.com/cjsarab/yahtzee-javascript-react">GitHub Repository</a>
                 <p>This is a web app created using Javascript and React. The app allows between one and six people to play Yahtzee together! </p>
+                <p> This app is now playable online at <a className="github-link" target="blank" href="http://yahtzee-front-end-only.s3-website.eu-west-2.amazonaws.com/">Yahtzee!</a></p>
                     <li>Full Yahtzee game allowing up to six players</li>
                     <li>Fully worked out logic for all scoring categories.</li>
                     <li>Pleasant, user-friendly aesthetic.</li>
@@ -58,12 +59,6 @@ const Javascript = () => {
                       <li className='js-pic-2'>
                       <img src={amiibo1} alt="screenshot of amiibo home"/>
                       </li>
-                      {/* <li className='js-pic-3'>
-                      <img src={amiibo2} alt="screenshot of amiibo further info"/>
-                      </li>
-                      <li className='js-pic-4'>
-                      <img src={amiibo3} alt="screenshot of amiibo basket"/>
-                      </li> */}
                   </ul>
 
         </div>
