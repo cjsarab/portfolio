@@ -1,5 +1,6 @@
 import React from 'react'
 import video from '../videos/crocCodeIsleDemo.mp4';
+import video2 from '../videos/crocCodeIslePresentation.mp4';
 
 
 const Java = () => {
@@ -20,13 +21,13 @@ const Java = () => {
                     <li>Fun, user-friendly aesthetic.</li>
                     <li>Integrated back end database to allow users to compete with each other for high scores.</li>
                     <p> This app was built in ten days and was my first experience using React Native. </p>
-                    <p>I thoroughly enjoyed the mobile development aspect of designing this app.</p>
+                    <p>Below is a short presentation including a demonstration of the apps capabilities.</p>
                     
                     <ul className="java-pics">
-                    <li className="java-video">
-                      <video width="240" height="480" controls
-                        source src={video} type="mp4">
-                      </video>
+                      <li className="java-video">
+                        <video width="720" height="480" controls
+                          source src={video2} type="mp4">
+                        </video>
                       </li>
                     </ul>
 
